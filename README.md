@@ -1,5 +1,7 @@
-# FinalProject - Best Dog Neighborhood
+# Team Name
 
+
+# Group Members
 Hannah Kwee - hwk10@pitt.edu
 Jagger Hershey - 
 Andrew Crofoot-Franco - 
