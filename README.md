@@ -6,7 +6,7 @@ Hannah Kwee - hwk10@pitt.edu - dog_licenses.ipynb
 
 Jagger Hershey - 
 
-Andrew Crofoot-Franco - 
+Andrew Crofoot-Franco - abc192@pitt.edu - 
 
 ## Description & Links
 https://data.wprdc.org/dataset/allegheny-county-dog-licenses
