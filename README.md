@@ -9,6 +9,10 @@ Jagger Hershey -
 Andrew Crofoot-Franco - 
 
 ## Description & Links
+https://data.wprdc.org/dataset/allegheny-county-dog-licenses
 
+https://data.wprdc.org/dataset/parks1
+
+https://data.wprdc.org/dataset/allegheny-county-trails-locations
 
 ## Overview
