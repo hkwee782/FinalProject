@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# FinalProject
+=======
 # Team Name
 
 
@@ -10,3 +13,4 @@ Andrew Crofoot-Franco -
 
 
 # Overview
+>>>>>>> dec5b63957b13da976e99567e776f2b97ddb3eed
