@@ -4,7 +4,7 @@
 ## Group Members
 Hannah Kwee - hwk10@pitt.edu - dog_licenses.ipynb
 
-Jagger Hershey -  - parks.ipynb
+Jagger Hershey - jch168@pitt.edu - parks.ipynb
 
 Andrew Crofoot-Franco - abc192@pitt.edu - 
 
