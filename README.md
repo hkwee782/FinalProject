@@ -1,6 +1,7 @@
 # The Neighborhood of Man's Best Friend
+Canvas Group 25
 
-## Group Members
+## Group Members & Python Notebooks
 Hannah Kwee - hwk10@pitt.edu - dog_licenses.ipynb
 
 Jagger Hershey - jch168@pitt.edu - parks.ipynb
