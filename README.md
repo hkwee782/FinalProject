@@ -16,3 +16,4 @@ https://data.wprdc.org/dataset/parks1
 https://data.wprdc.org/dataset/allegheny-county-trails-locations
 
 ## Overview
+We analyze the number of dogs, the number and size of parks, and the amount of toxic waste in Pittsburgh neighborhoods to determine which is the best to own a dog in.
