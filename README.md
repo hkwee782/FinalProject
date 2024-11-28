@@ -1,5 +1,4 @@
-# Team Name
-Man's Best Friend's Neighborhood
+# The Neighborhood of Man's Best Friend
 
 ## Group Members
 Hannah Kwee - hwk10@pitt.edu - dog_licenses.ipynb
