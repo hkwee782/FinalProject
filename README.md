@@ -16,4 +16,4 @@ Parks - https://data.wprdc.org/dataset/parks1
 Toxic Release - https://data.wprdc.org/dataset/toxic-release-inventory
 
 ## Overview
-We analyze the number of dogs, the number and size of parks, and the amount of toxic waste in Pittsburgh neighborhoods to determine which is the best to own a dog in.
+An analyzation of the number of dogs, the number and size of parks, and the amount of toxic waste in Pittsburgh neighborhoods to determine which is the best to own a dog in.
