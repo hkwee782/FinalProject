@@ -1,16 +1,18 @@
-<<<<<<< HEAD
-# FinalProject
-=======
 # Team Name
 
 
-# Group Members
-Hannah Kwee - hwk10@pitt.edu
-Jagger Hershey - 
-Andrew Crofoot-Franco - 
+## Group Members
+Hannah Kwee - hwk10@pitt.edu - dog_licenses.ipynb
 
-# Description & Links
+Jagger Hershey - jch168@pitt.edu - parks.ipynb
 
+Andrew Crofoot-Franco - abc192@pitt.edu - 
 
-# Overview
->>>>>>> dec5b63957b13da976e99567e776f2b97ddb3eed
+## Description & Links
+https://data.wprdc.org/dataset/allegheny-county-dog-licenses
+
+https://data.wprdc.org/dataset/parks1
+
+https://data.wprdc.org/dataset/allegheny-county-trails-locations
+
+## Overview
